@@ -1,0 +1,5 @@
+alert=("Un mensaje);
+var x = 1;
+var y = 2;
+var z = 3;
+alert.("el valor de z es" + z);
